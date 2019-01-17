@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Anfänger
 
-You can use the [editor on GitHub](https://github.com/gamstc/gamstc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Wer noch nie selber programmiert hat, kann mit einem der folgenden Spiele/Projekte anfangen:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Programmieren lernen mit der Maus (Scratch ähnlich)
+Blockbasierte Programmierspiele mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft (coderdojo linz) (Blockly)
+CoderDojo Projekte (Scratch)
 
-### Markdown
+So sehen Links aus [editor on GitHub](https://github.com/gamstc/gamstc.github.io/edit/master/README.md) 
+
+
+## Fortgeschrittene
+
+Schwierigere Scratch Sachen
+Python
+Raspberry Pi
+Calliope Mini
+
+
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
