@@ -2,8 +2,8 @@
 
 Wer noch nie selber programmiert hat, kann mit einem der folgenden Spiele/Projekte anfangen:
 
-Programmieren lernen mit der Maus (Scratch ähnlich)
-Blockbasierte Programmierspiele mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft (coderdojo linz) (Blockly)
+Programmieren lernen mit der Maus (Scratch ähnlich)  
+Blockbasierte Programmierspiele mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft (coderdojo linz) (Blockly)  
 CoderDojo Projekte (Scratch)
 
 So sehen Links aus [editor on GitHub](https://github.com/gamstc/gamstc.github.io/edit/master/README.md) 
