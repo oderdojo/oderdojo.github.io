@@ -1,6 +1,6 @@
 ## Zum Einstieg
 
-Wer noch nie selber programmiert hat, kann mit einem der folgenden Spiele anfangen:
+Wenn ihr noch nie selber programmiert habt, könnt ihr mit einem der folgenden Spiele anfangen:
 
 [Programmieren lernen mit der Maus](https://programmieren.wdrmaus.de/lernspiel/00)  
 [Blockbasierte Programmierspiele](http://coderdojo-linz.github.io/trainingsanleitungen/scratch/hour-of-code.html) mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft  
@@ -8,7 +8,7 @@ Wer noch nie selber programmiert hat, kann mit einem der folgenden Spiele anfang
 
 ## Anfänger
 
-Wer lieber direkt selber programmieren will, kann mit Scratch loslegen:
+Wenn ihr lieber direkt selber programmieren wollt, könnt ihr mit Scratch loslegen:
 
 [CoderDojo Projekte](https://projects.raspberrypi.org/de-DE/projects)  
 Kopien aus dem [Programmieren für Kids](https://www.thalia.de/shop/home/artikeldetails/ID64483962.html) Buch  
@@ -16,7 +16,7 @@ Kopien aus dem [Programmieren für Kids](https://www.thalia.de/shop/home/artikel
 
 ## Fortgeschrittene
 
-Wer schonmal ein bisschen programmiert hat und etwas Neues ausprobieren will, kann hier schauen:  
+Wenn ihr schonmal ein bisschen programmiert habt und etwas Neues ausprobieren wollt, könnt ihr hier schauen:  
 
 ### Programmiersprachen
 
