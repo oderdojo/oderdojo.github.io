@@ -9,7 +9,7 @@ Blockbasierte Programmierspiele mit Angry Birds, Anna und Elsa, Star Wars oder M
 
 Wer lieber direkt selber programmieren will, kann mit Scratch loslegen
 
-CoderDojo Projekte (Scratch)
+CoderDojo Projekte (Scratch)  
 Buch Kopien
 
 So sehen Links aus [editor on GitHub](https://github.com/gamstc/gamstc.github.io/edit/master/README.md) 
