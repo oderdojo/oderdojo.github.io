@@ -21,7 +21,9 @@ Wer schonmal ein bisschen programmiert hat und etwas neues ausprobieren will, ka
 ### Programmiersprachen
 
 [Weitere CoderDojo Scratch Projekte](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch)  
-[Python](http://opentechschool.github.io/python-beginners/de/index.html)  
+[Python](https://projects.raspberrypi.org/de-DE/projects/about-me) spielerisch  
+[Python](http://opentechschool.github.io/python-beginners/de/index.html) etwas formaler  
+[Webseiten mit HTML & CSS](https://projects.raspberrypi.org/de-DE/projects?software[]=html-css-javascript)  
 
 ### Hardware
 
