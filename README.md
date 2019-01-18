@@ -6,7 +6,7 @@ Wenn ihr noch nie selber programmiert habt, könnt ihr mit einem der folgenden S
 [Blockbasierte Programmierspiele](http://coderdojo-linz.github.io/trainingsanleitungen/scratch/hour-of-code.html) mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft  
 
 
-## Anfänger
+## Anfänger*innen
 
 Wenn ihr lieber direkt selber programmieren wollt, könnt ihr mit Scratch loslegen:
 
