@@ -3,7 +3,7 @@
 Wenn ihr noch nie selber programmiert habt, könnt ihr mit einem der folgenden Spiele anfangen:
 
 [Programmieren lernen mit der Maus](https://programmieren.wdrmaus.de/lernspiel/00)  
-[Blockbasierte Programmierspiele](http://coderdojo-linz.github.io/trainingsanleitungen/scratch/hour-of-code.html) mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft  
+[*Hour of Code* Programmierspiele](http://coderdojo-linz.github.io/trainingsanleitungen/scratch/hour-of-code.html) mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft  
 
 
 ## Anfänger*innen
