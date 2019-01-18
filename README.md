@@ -10,7 +10,7 @@ Wenn ihr noch nie selber programmiert habt, könnt ihr mit einem der folgenden S
 
 Wenn ihr lieber direkt selber programmieren wollt, könnt ihr mit Scratch loslegen:
 
-[CoderDojo Projekte](https://projects.raspberrypi.org/de-DE/projects)  
+[CoderDojo Scratch Projekte](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch)  
 Kopien aus dem [Programmieren für Kids](https://www.thalia.de/shop/home/artikeldetails/ID64483962.html) Buch  
 
 
@@ -20,7 +20,7 @@ Wenn ihr schonmal ein bisschen programmiert habt und etwas Neues ausprobieren wo
 
 ### Programmiersprachen
 
-[Weitere CoderDojo Scratch Projekte](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch)  
+[Weitere CoderDojo Projekte](https://projects.raspberrypi.org/de-DE/projects)  
 [Python](https://projects.raspberrypi.org/de-DE/projects/about-me) spielerisch  
 [Python](http://opentechschool.github.io/python-beginners/de/index.html) etwas formaler  
 [Webseiten mit HTML & CSS](https://projects.raspberrypi.org/de-DE/projects?software[]=html-css-javascript)  
