@@ -1,10 +1,16 @@
-## Anfänger
+## Zum Einstieg
 
 Wer noch nie selber programmiert hat, kann mit einem der folgenden Spiele/Projekte anfangen:
 
 Programmieren lernen mit der Maus (Scratch ähnlich)  
 Blockbasierte Programmierspiele mit Angry Birds, Anna und Elsa, Star Wars oder Minecraft (coderdojo linz) (Blockly)  
+
+## Anfänger
+
+Wer lieber direkt selber programmieren will, kann mit Scratch loslegen
+
 CoderDojo Projekte (Scratch)
+Buch Kopien
 
 So sehen Links aus [editor on GitHub](https://github.com/gamstc/gamstc.github.io/edit/master/README.md) 
 
