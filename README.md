@@ -16,7 +16,7 @@ Kopien aus dem [Programmieren für Kids](https://www.thalia.de/shop/home/artikel
 
 ## Fortgeschrittene
 
-Wer schonmal ein bisschen programmiert hat und etwas neues ausprobieren will, kann hier schauen:  
+Wer schonmal ein bisschen programmiert hat und etwas Neues ausprobieren will, kann hier schauen:  
 
 ### Programmiersprachen
 
