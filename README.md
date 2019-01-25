@@ -1,3 +1,15 @@
+# Termine
+
+Unser Dojo findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
+
+Nächster Termin ist am **26. Januar 2019 um 14 Uhr**
+
+# Anmeldung
+
+Anmeldungen bitte über unsere [offizielle CoderDojo-Seite](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
+
+# Materialien
+
 ## Zum Einstieg
 
 Wenn ihr noch nie selber programmiert habt, könnt ihr mit einem der folgenden Spiele anfangen:
