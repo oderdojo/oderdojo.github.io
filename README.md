@@ -2,7 +2,7 @@
 
 Unser Dojo findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
 
-Nächster Termin ist am **26. Januar 2019 um 14 Uhr**
+Nächster Termin ist am **23. Februar 2019 um 14 Uhr**
 
 # Anmeldung
 
