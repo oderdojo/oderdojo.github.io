@@ -30,7 +30,7 @@ Kopien aus dem [Programmieren für Kids](https://www.thalia.de/shop/home/artikel
 ### Hardware
 
 [Calliope Mini](https://calliope.cc/los-geht-s/erste-schritte)  
-[BOB3](https://www.progbob.org/)
+[BOB3](https://www.progbob.org/)   
 [Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started) (auf Englisch)  
 
 
