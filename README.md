@@ -1,4 +1,4 @@
-<img align="right" width=200 src="logo.png" />
+<img align="right" width=200 src="https://github.com/oderdojo/oderdojo.github.io/raw/master/logo.png" />
 
 # Was ist CoderDojo?
 
