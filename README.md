@@ -1,14 +1,23 @@
+# Was ist CoderDojo?
+
+CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder und Jugendliche im Alter von 7 bis 17 Jahren programmieren lernen und Spaß haben können. Wir nennen das "offenen Programmierwerktstätten". Genaueres dazu, wie CoderDojos genau funktionieren, könnt ihr [auf der zentralen Seite](https://coderdojo.com/de-DE) der Bewegung lesen. 
+
+
 # Termine
 
-Unser Dojo findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
+Bisher gibt es von uns ein Dojo in **Frankfurt (Oder)**. Das findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
 
-Nächster Termin ist am **27. April 2019 um 14 Uhr**
+Nächster Termin ist am **25. Mai 2019 um 14 Uhr**
+
+Außerdem wollen wir vor den Sommerferien noch ein **Sommer-Spezial-Dojo** veranstalten am **15. Juni um 14 Uhr**. Haltet euch also den Termin schonmal frei und seid gespannt!
 
 # Anmeldung
 
-Anmeldungen bitte über unsere [offizielle CoderDojo-Seite](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
+Anmeldungen bitte über unsere [offizielle CoderDojo-Seite](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) für Frankfurt. 
 
 # Materialien
+
+Hier eine Sammlung von Materialien, mit denen ihr euch beim Dojo (und natürlich auch jederzeit zu Hause) beschäftigen könnt. 
 
 ## Zum Einstieg
 
