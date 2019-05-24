@@ -19,7 +19,7 @@ Der Starttermin in Letschin ist am **14. Juni 2019 um 15 Uhr**. Anmeldung [hier]
 
 Das Dojo in **Letschin** findet im [Coworking Oderbruch](https://coworking-alte-schule-letschin.business.site/) in der Alten Schule statt, lustigerweise auch in der [Karl-Marx-Str.](https://goo.gl/maps/2F6DL41DgH8PsxG28), allerdings Nr. 5. 
 
-Wenn ihr vorbeikommen wollte: **Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) und [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
+Wenn ihr vorbeikommen wollt: **Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) und [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
 
 # Materialien
 
