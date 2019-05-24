@@ -3,18 +3,21 @@
 
 CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder und Jugendliche im Alter von 7 bis 17 Jahren programmieren lernen und Spaß haben können. Wir nennen das "offene Programmierwerktstätten". Genaueres dazu, wie CoderDojos funktionieren, könnt ihr [auf der zentralen Seite](https://coderdojo.com/de-DE) der Bewegung lesen. 
 
+# Unsere Dojos
 
-# Termine
+Bisher gibt es von uns ein Dojo in **[Frankfurt (Oder)](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder)** und ab Juni auch eins in **[Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch)**. 
 
-Bisher gibt es von uns ein Dojo in **Frankfurt (Oder)**. Das findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
+# Termine und Anmeldung
 
-Nächster Termin ist am **25. Mai 2019 um 14 Uhr**
+Das Dojo in **Frankfurt** findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
+
+Nächster Termin in Frankfurt ist am **25. Mai 2019 um 14 Uhr**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
 
 Außerdem wollen wir vor den Sommerferien noch ein **Sommer-Spezial-Dojo** veranstalten am **15. Juni um 14 Uhr**. Haltet euch also den Termin schonmal frei und seid gespannt!
 
-# Anmeldung
+Der Starttermin in Letschin ist am **14. Juni 2019 um 15 Uhr**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
 
-Anmeldungen bitte über unsere [offizielle CoderDojo-Seite](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) für Frankfurt. 
+**Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) und [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
 
 # Materialien
 
