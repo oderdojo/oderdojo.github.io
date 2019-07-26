@@ -5,21 +5,25 @@ CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder 
 
 # Unsere Dojos
 
-Bisher gibt es von uns ein Dojo in **[Frankfurt (Oder)](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder)** und  eins in **[Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch)**. Nach den Sommerferien starten wir auch noch eins in **Beeskow**!
+Jetzt gibt es schon drei Dojos von uns: ein Dojo in **[Frankfurt (Oder)](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder)**,  eins in **[Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch)** und jetzt nach den Sommerferien starten wir auch noch eins in **[Beeskow](https://zen.coderdojo.com/dojos/de/beeskow/beeskow)**!
 
 # Termine und Anmeldung
 
-Das Dojo in **Frankfurt** findet immer am letzten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
+Und jetzt stehen auch die Termine für das neue Schuljahr: Wir starten erholt und braungebrannt in den August!
 
-Nächster Termin in Frankfurt ist dann **nach den Sommerferien im August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
+Das Dojo in **Frankfurt** findet immer am dritten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
 
-Das Dojo in **Letschin** findet immer am dritten Freitag im Monat von 15 - 18 Uhr statt im [Coworking Oderbruch](https://coworking-alte-schule-letschin.business.site/) in der Alten Schule statt, lustigerweise auch in der [Karl-Marx-Str.](https://goo.gl/maps/2F6DL41DgH8PsxG28), allerdings Nr. 5. 
+Nächster Termin in Frankfurt ist am **Samstag, 17. August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
 
-Nächster Termin in Letschin ist auch **nach den Sommerferien im August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
+Das Dojo in **Letschin** findet immer am dritten Freitag im Monat von 15 - 18 Uhr statt, im [Coworking Oderbruch](https://coworking-alte-schule-letschin.business.site/) in der Alten Schule, [Karl-Marx-Str. 5](https://goo.gl/maps/2F6DL41DgH8PsxG28). 
 
-Außerdem starten wir im August nach den Ferien auch ein drittes Dojo in **Beeskow** im [Pier13](https://www.stiftung-spi.de/projekte/jt-beeskow/). Nähere Infos zum Starttermin folgen demnächst. Seid gespannt!
+Nächster Termin in Letschin ist am **Freitag, 16. August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
 
-Wenn ihr vorbeikommen wollt: **Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder) und [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
+Außerdem starten wir jetzt im August unser drittes Dojo in **Beeskow** im [Pier13](https://www.stiftung-spi.de/projekte/jt-beeskow/) in der [Breitscheidstr. 13](https://goo.gl/maps/gLhN3QGxLQfUM7Xs5). Wir sind schon ganz gespannt auf Euch!
+
+Das Dojo in Beeskow findet immer am vierten Samstag im Monat von 14 - 17 Uhr statt und der Starttermin ist am **Samstag, 24. August**.
+
+Wenn ihr vorbeikommen wollt: **Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder), [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch) und [Beeskow](https://zen.coderdojo.com/dojos/de/beeskow/beeskow). 
 
 # Materialien
 
