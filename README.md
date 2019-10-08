@@ -11,19 +11,19 @@ Besucht uns auch gerne auf unserer **[Facebook-Seite](https://www.facebook.com/o
 
 # Termine und Anmeldung
 
-Und jetzt stehen auch die Termine für das neue Schuljahr: Wir starten erholt und braungebrannt in den August!
+Wir wünschen allen schöne Herbstferien und sehen uns wieder frisch in ein paar Wochen!
 
 Das Dojo in **Frankfurt** findet immer am dritten Samstag im Monat von 14 - 17 Uhr statt, im [Blok O](https://blok-o.de/) in der [Karl-Marx-Str. 182.](https://goo.gl/maps/yabsSpX39fA2) 
 
-Nächster Termin in Frankfurt ist am **Samstag, 17. August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
+Nächster Termin in Frankfurt ist am **Samstag, 19. Oktober**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder). 
 
-Das Dojo in **Letschin** findet immer am dritten Freitag im Monat von 15 - 18 Uhr statt, im [Coworking Oderbruch](https://coworking-alte-schule-letschin.business.site/) in der Alten Schule, [Karl-Marx-Str. 5](https://goo.gl/maps/2F6DL41DgH8PsxG28). 
+Das Dojo in **Letschin** findet immer am dritten Freitag im Monat von 14 - 17 Uhr statt, im [Coworking Oderbruch](https://coworking-alte-schule-letschin.business.site/) in der Alten Schule, [Karl-Marx-Str. 5](https://goo.gl/maps/2F6DL41DgH8PsxG28). 
 
-Nächster Termin in Letschin ist am **Freitag, 16. August**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
+Nächster Termin in Letschin ist wegen Herbstferien erst am **Freitag, 25. Oktober**. Anmeldung [hier](https://zen.coderdojo.com/dojos/de/letschin/oderbruch). 
 
-Außerdem starten wir jetzt im August unser drittes Dojo in **Beeskow** im [Pier13](https://www.stiftung-spi.de/projekte/jt-beeskow/) in der [Breitscheidstr. 13](https://goo.gl/maps/gLhN3QGxLQfUM7Xs5). Wir sind schon ganz gespannt auf Euch!
+Außerdem gibt es nun auch unser drittes Dojo in **Beeskow**, bisher im [Pier13](https://www.stiftung-spi.de/projekte/jt-beeskow/) in der [Breitscheidstr. 13](https://goo.gl/maps/gLhN3QGxLQfUM7Xs5).
 
-Das Dojo in Beeskow findet immer am vierten Samstag im Monat von 14 - 17 Uhr statt und der Starttermin ist am **Samstag, 24. August**.
+Das Dojo in Beeskow findet immer am vierten Samstag im Monat von 14 - 17 Uhr statt und der nächste Termin **folgt bald**.
 
 Wenn ihr vorbeikommen wollt: **Anmeldungen** bitte immer über unsere offiziellen CoderDojo-Seiten für [Frankfurt](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder), [Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch) und [Beeskow](https://zen.coderdojo.com/dojos/de/beeskow/beeskow). 
 
