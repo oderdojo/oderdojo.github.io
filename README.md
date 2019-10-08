@@ -1,7 +1,7 @@
 
 # Was ist CoderDojo?
 
-CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder und Jugendliche im Alter von 7 bis 17 Jahren programmieren lernen und Spaß haben können. Wir nennen das "offene Programmierwerktstätten". Genaueres dazu, wie CoderDojos funktionieren, könnt ihr [auf der zentralen Seite](https://coderdojo.com/de-DE) der Bewegung lesen. 
+CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder und Jugendliche im Alter von 7 bis 17 Jahren programmieren lernen und Spaß haben können. Wir nennen das "offene Programmierwerkstätten". Genaueres dazu, wie CoderDojos funktionieren, könnt ihr [auf der zentralen Seite](https://coderdojo.com/de-DE) der Bewegung lesen. 
 
 # Unsere Dojos
 
