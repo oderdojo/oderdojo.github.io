@@ -5,7 +5,7 @@ CoderDojo ist eine globale Bewegung von offenen, lokalen Clubs, in denen Kinder 
 
 # Unsere Dojos
 
-Mittlerweile gibt es schon drei Dojos von uns: eins in **[Frankfurt (Oder)](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder)**,  eins in **[Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch)** und jetzt nach den Sommerferien starten wir auch noch eins in **[Beeskow](https://zen.coderdojo.com/dojos/de/beeskow/beeskow)**!
+Mittlerweile gibt es schon drei Dojos von uns: eins in **[Frankfurt (Oder)](https://zen.coderdojo.com/dojos/de/frankfurt-oder/frankfurt-oder)**,  eins in **[Letschin](https://zen.coderdojo.com/dojos/de/letschin/oderbruch)** und seit kurzem auch noch eins in **[Beeskow](https://zen.coderdojo.com/dojos/de/beeskow/beeskow)**!
 
 Besucht uns auch gerne auf unserer **[Facebook-Seite](https://www.facebook.com/oderdojo)**. Die ist oft aktueller als hier... 
 
