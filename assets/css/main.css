@@ -2462,6 +2462,14 @@ input, select, textarea {
 			margin-left: 0;
 		}
 
+    ul.actions.special1 {
+      -moz-justify-content: center;
+      -webkit-justify-content: center;
+      -ms-justify-content: center;
+      justify-content: left;
+      margin-left: 0;
+    }
+
 			ul.actions.special li:first-child {
 				padding-left: 0;
 			}
