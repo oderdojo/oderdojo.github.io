@@ -2393,8 +2393,20 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
         height:  180px;
-        object-fit: cover;
+        object-fit: contain;
 			}
+
+    .image.city {
+      display: block;
+      margin: 0 0 2em 0;
+      width: 100%;
+    }
+
+      .image.city img {
+        width: 100%;
+        height:  180px;
+        object-fit: cover;
+      }
 
 /* Logo */
 
