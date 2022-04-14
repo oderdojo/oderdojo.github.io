@@ -2396,6 +2396,14 @@ input, select, textarea {
         object-fit: cover;
 			}
 
+/* Logo */
+
+.logo{
+  display:  grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap:  20px;
+}
+
 /* List */
 
 	ol {
